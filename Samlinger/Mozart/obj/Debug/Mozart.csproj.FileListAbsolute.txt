@@ -1,0 +1,8 @@
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\bin\Debug\Mozart.exe.config
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\bin\Debug\Mozart.exe
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\bin\Debug\Mozart.pdb
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\obj\Debug\Mozart.csproj.AssemblyReference.cache
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\obj\Debug\Mozart.csproj.SuggestedBindingRedirects.cache
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\obj\Debug\Mozart.csproj.CoreCompileInputs.cache
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\obj\Debug\Mozart.exe
+C:\Users\klich\source\repos\Samlinger\Samlinger\Mozart\obj\Debug\Mozart.pdb
