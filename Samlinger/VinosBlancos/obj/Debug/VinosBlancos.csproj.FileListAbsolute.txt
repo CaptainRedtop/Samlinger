@@ -6,3 +6,11 @@ C:\Users\zbc23nksk\source\repos\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.cs
 C:\Users\zbc23nksk\source\repos\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.csproj.CoreCompileInputs.cache
 C:\Users\zbc23nksk\source\repos\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.exe
 C:\Users\zbc23nksk\source\repos\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.pdb
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\bin\Debug\VinosBlancos.exe.config
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\bin\Debug\VinosBlancos.exe
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\bin\Debug\VinosBlancos.pdb
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.csproj.AssemblyReference.cache
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.csproj.SuggestedBindingRedirects.cache
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.csproj.CoreCompileInputs.cache
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.exe
+C:\Users\klich\source\repos\Samlinger\Samlinger\VinosBlancos\obj\Debug\VinosBlancos.pdb
