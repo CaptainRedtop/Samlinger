@@ -49,7 +49,19 @@ namespace VinosBlancos
         #region Model
         static int[] Model()
         {
-            int[] sales = new int[] { 175134, 175338, 172818, 142709, 151437, 152620, 150979, 152210, 149450, 154398, 150160 };
+            int y2009 = 175134;
+            int y2010 = 175338;
+            int y2011 = 172818;
+            int y2012 = 142709;
+            int y2013 = 151437;
+            int y2014 = 152620 + 35432;
+            int y2015 = 150979;
+            int y2016 = 152210;
+            int y2017 = 149450;
+            int y2018 = 154398;
+            int y2019 = 150160;
+
+            int[] sales = new int[] { y2009, y2010, y2011, y2012, y2013, y2014, y2015, y2016, y2017, y2018, y2019 };
             Array.Sort(sales);
             Array.Reverse(sales);
             return sales;
